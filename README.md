@@ -5,4 +5,4 @@ Congragulations, by coming here, you have skipped the ads on the planetminecraft
 -lion :3
 
 
-_P.S. if you ever find Radiant Pack RTX listed on anything other than my own website or planetminecraft, please let me know by creating an issue, thanks!_
+_P.S. if you ever find RPRTX listed on anything other than my own website or planetminecraft, please let me know by creating an issue, thanks!_
